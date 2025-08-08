@@ -21,6 +21,14 @@
 
 ---
 
+## 💼 Professional Highlights  
+- Built scalable, high-performance web applications using Angular & modern frontend tools.  
+- Designed responsive, user-friendly UIs improving usability & engagement.  
+- Collaborated with cross-functional teams in Agile/Scrum environments.  
+- Experienced with SQL Server, Oracle, Snowflake for data-driven solutions.  
+- Strong focus on code quality, maintainability, and performance optimization.  
+
+---
 ## 💼 Experience
 **Angular Developer** — *Performalytic India Pvt Ltd, Bhubaneswar*  
 📅 *2022 – Present*  
@@ -49,8 +57,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepashreeRay&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepashreeRay&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepashreeRay&show_icons=true&theme=radical) 
 
 ---
 
