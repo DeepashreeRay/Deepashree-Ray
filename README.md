@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Deepashree Ray
 
-🚀 **Angular Developer** with 3.6 years building scalable, user-friendly, responsive web apps.  
-💡 I focus on clean, maintainable code and smooth UI/UX.
+💻 Angular Developer passionate about creating beautiful, functional, and performant web applications.
+🎯 Turning ideas into interactive, user-friendly experiences with precision and creativity.
+⚡ Always exploring new ways to make the web faster, smarter, and more engaging.
 
 ---
 
