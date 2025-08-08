@@ -48,8 +48,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepashree-Ray&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepashree-Ray&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepashreeRay&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepashreeRay&layout=compact&theme=radical)
 
 ---
 
